@@ -1,0 +1,58 @@
+{
+  "modpacks": [
+    {
+      "id": "total-adventure",
+      "description": "TotalAdventure é um projeto de RPG e mineração para Minecraft, focado em progressão real, risco significativo e economia localizada. *ATUALMENTE PARADO*",
+      "serverIp": "play.totaladventure.com.br",
+      "recommendedRamMb": 6144,
+      "storeUrl": "https://loja.redetotalcraft.com",
+      "mapUrl": "http://arm.redetotalcraft.com:25515/#world:-143:0:131:1500:0:0:0:0:perspective",
+      "socialLinks": {
+        "enabled": false,
+        "items": [
+          {
+            "label": "Site Oficial",
+            "url": "https://redetotalcraft.com.br"
+          },
+          {
+            "label": "Discord",
+            "url": "https://discord.gg/totalcraft"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aedf-v1",
+      "serverIp": "aedf1.redetotalcraft.com",
+      "recommendedRamMb": 1024,
+      "storeUrl": "https://loja.redetotalcraft.com/shop/3285-aedf1",
+      "mapUrl": null,
+      "socialLinks": {
+        "enabled": false,
+        "items": []
+      }
+    },
+    {
+      "id": "aedf-v3",
+      "serverIp": "aedf3.redetotalcraft.com",
+      "recommendedRamMb": 3584,
+      "storeUrl": "https://loja.redetotalcraft.com/shop/3628-aedf3",
+      "mapUrl": null,
+      "socialLinks": {
+        "enabled": false,
+        "items": []
+      }
+    },
+    {
+      "id": "skyblock-1.16",
+      "serverIp": "skyblock.redetotalcraft.com",
+      "recommendedRamMb": 6144,
+      "storeUrl": "https://loja.redetotalcraft.com/shop/4355-skyblock",
+      "mapUrl": null,
+      "socialLinks": {
+        "enabled": false,
+        "items": []
+      }
+    }
+  ]
+}
