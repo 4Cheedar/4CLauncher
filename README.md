@@ -2,8 +2,6 @@
 
 Launcher desktop (Windows e Linux) da **TotalCraft Network**, feito pra tirar o peso técnico de instalar, atualizar e abrir modpacks — você entra no launcher e vai direto pro que importa: jogar.
 
-> Este repositório guarda **apenas as releases** (instaladores) do 4C Launcher. O código-fonte e o desenvolvimento acontecem em [4CLauncher-dev](https://github.com/4Cheedar/4CLauncher-dev).
-
 ## Download
 
 Baixe a versão mais recente na [página de Releases](https://github.com/4Cheedar/4CLauncher/releases/latest).
@@ -31,7 +29,3 @@ O launcher verifica novas versões automaticamente e avisa quando sair uma atual
 
 - Site: [redetotalcraft.com.br](https://redetotalcraft.com.br)
 - Discord: [discord.gg/totalcraft](https://discord.gg/totalcraft)
-
-## Reportar problemas
-
-Bugs, sugestões e contribuições técnicas ficam no repositório de desenvolvimento: [4CLauncher-dev](https://github.com/4Cheedar/4CLauncher-dev).
