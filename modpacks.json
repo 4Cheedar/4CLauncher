@@ -45,7 +45,7 @@
     },
     {
       "id": "skyblock-1.16",
-      "serverIp": "skyblock.redetotalcraft.com",
+      "serverIp": "arm.redetotalcraft.com:25504",
       "recommendedRamMb": 6144,
       "storeUrl": "https://loja.redetotalcraft.com/shop/4355-skyblock",
       "mapUrl": null,
