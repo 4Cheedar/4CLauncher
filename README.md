@@ -16,10 +16,12 @@ O launcher verifica novas versões automaticamente e avisa quando sair uma atual
 ## Funcionalidades
 
 - **Contas Microsoft e offline** — login com o fluxo OAuth Device Code da Microsoft, ou modo offline pra testes locais.
-- **Instâncias isoladas** — cada modpack roda separado, com detecção de Java e compatibilidade com várias gerações de Forge (incluindo versões antigas).
+- **Instâncias isoladas** — cada modpack roda separado, com detecção de Java e compatibilidade com várias gerações de Forge e NeoForge (incluindo versões antigas).
 - **Instalação e atualização automáticas** dos modpacks, direto das releases do GitHub configuradas no manifesto.
+- **Versão Light** — modpacks compatíveis oferecem uma versão mais leve pra quem tem PC mais fraco, escolhida direto na tela do modpack.
+- **Auto-ajuste de memória** — usa a RAM recomendada de cada modpack automaticamente quando seu PC tem RAM de sobra, sem precisar ajustar na mão (opcional, em Configurações).
 - **Alertas e segundo plano** — notificações do sistema e execução em background sem travar o fluxo do jogador.
-- **Console de logs** opcional, com resumo automático do crash log quando o Minecraft fecha com erro.
+- **Console de logs** opcional, com resumo automático do crash log quando o Minecraft fecha com erro e botão pra salvar o log da sessão em arquivo.
 - **"Festa de espera"** — animação com luzes, confete e música tocando enquanto o Minecraft abre pela primeira vez.
 - **Discord Rich Presence customizável** — status próprio por instância ou global, com tags dinâmicas (`{modpack.name}`, `{server.ip}`, `{account.name}`...) e filtro anti-abuso.
 - **Estatísticas locais** — tempo jogado, sessões, modpack favorito.

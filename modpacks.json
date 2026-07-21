@@ -53,6 +53,17 @@
         "enabled": false,
         "items": []
       }
+    },
+    {
+      "id": "atm10",
+      "serverIp": "atm10.redetotalcraft.com:27015",
+      "recommendedRamMb": 9216,
+      "storeUrl": "https://loja.redetotalcraft.com/shop/4615-atm10",
+      "mapUrl": null,
+      "socialLinks": {
+        "enabled": false,
+        "items": []
+      }
     }
   ]
 }
