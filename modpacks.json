@@ -3,7 +3,7 @@
     {
       "id": "total-adventure",
       "description": "TotalAdventure é um projeto de RPG e mineração para Minecraft, focado em progressão real, risco significativo e economia localizada. *ATUALMENTE PARADO*",
-      "serverIp": "play.totaladventure.com.br",
+      "serverIp": "arm.redetotalcraft.com:25512",
       "recommendedRamMb": 6144,
       "storeUrl": "https://loja.redetotalcraft.com",
       "mapUrl": "http://arm.redetotalcraft.com:25515/#world:-143:0:131:1500:0:0:0:0:perspective",
@@ -45,7 +45,7 @@
     },
     {
       "id": "skyblock-1.16",
-      "serverIp": "arm.redetotalcraft.com:25504",
+      "serverIp": "arm.redetotalcraft.com:25516",
       "recommendedRamMb": 6144,
       "storeUrl": "https://loja.redetotalcraft.com/shop/4355-skyblock",
       "mapUrl": null,
