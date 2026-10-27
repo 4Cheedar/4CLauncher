@@ -2,21 +2,22 @@
   "modpacks": [
     {
       "id": "total-adventure",
-      "description": "TotalAdventure é um projeto de RPG e mineração para Minecraft, focado em progressão real, risco significativo e economia localizada. *ATUALMENTE PARADO*",
-      "serverIp": "arm.redetotalcraft.com:25512",
+      "description": "TotalAdventure é um RPG de mineração e aventura para Minecraft: progressão real, forja com profissões próprias, economia por vila e um mundo com história pra explorar, sozinho ou em grupo.",
+      "serverIp": null,
       "recommendedRamMb": 6144,
       "storeUrl": "https://loja.redetotalcraft.com",
-      "mapUrl": "http://arm.redetotalcraft.com:25515/#world:-143:0:131:1500:0:0:0:0:perspective",
+      "mapUrl": null,
+      "wikiUrl": "https://4cheedar.dev/wiki",
       "socialLinks": {
-        "enabled": false,
+        "enabled": true,
         "items": [
           {
             "label": "Site Oficial",
-            "url": "https://redetotalcraft.com.br"
+            "url": "https://4cheedar.dev"
           },
           {
-            "label": "Discord",
-            "url": "https://discord.gg/totalcraft"
+            "label": "Wiki",
+            "url": "https://4cheedar.dev/wiki"
           }
         ]
       }
